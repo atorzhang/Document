@@ -167,11 +167,11 @@ sudo opensipsctl restart 重启服务
 
 ### 手机安装软件测试
 
-* 安卓手机可以装个Linphone或者
+* 安卓手机可以装个Linphone
 * 苹果手机可以装个PortSIP UC
 * 设置苹果手机账号为1000
 <img src="https://raw.githubusercontent.com/atorzhang/Document/main/Imgs/sip_ios.jpg" width="30%" height="auto">
-* 设置苹果手机账号为1001
+* 设置安卓手机账号为1001
 <img src="https://raw.githubusercontent.com/atorzhang/Document/main/Imgs/sip_andriod.jpg" width="30%" height="auto">
 
 * 用苹果手机拨通安卓手机, PortSIP UC通话界面
